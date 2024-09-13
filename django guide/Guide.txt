@@ -1,0 +1,30 @@
+Creating a virtual environment
+	: python -m venv [name of the environment]
+
+Activating the environment 
+	: Navigate to "[name of the environment]/scripts"
+	: activate
+	: Navigate back to the main directory
+
+Install packages 
+	: pip install django
+
+Create the project 
+	: django-admin startproject [name of the project]
+
+Navigate into the created project and create the database
+	: cd [name of the project]
+	: python manage.py migrate
+
+Creating the super user
+	: python manage.py createsuperuser
+
+Running the server 
+	: python manage.py runserver
+
+
+
+
+
+
+
