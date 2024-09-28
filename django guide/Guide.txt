@@ -1,3 +1,8 @@
+YOUTUBE RESOURCE:   https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL&index=1
+
+
+
+
 Creating a virtual environment
 	: python -m venv [name of the environment]
 
